@@ -1,0 +1,47 @@
+[
+  {
+    "title": "Web Development Bootcamp",
+    "description": "Learn HTML, CSS, JavaScript, and React to build modern websites.",
+    "image": "https://example.com/images/web-dev.jpg",
+    "price": 199.99,
+    "duration": 60,
+    "category": "Development",
+    "createdBy": "John Doe"
+  },
+  {
+    "title": "Introduction to Python",
+    "description": "Start your programming journey with Python. Ideal for beginners.",
+    "image": "https://example.com/images/python-course.jpg",
+    "price": 99.99,
+    "duration": 30,
+    "category": "Programming",
+    "createdBy": "Jane Smith"
+  },
+  {
+    "title": "Digital Marketing Fundamentals",
+    "description": "Understand SEO, social media, email marketing, and more.",
+    "image": "https://example.com/images/digital-marketing.jpg",
+    "price": 149.00,
+    "duration": 45,
+    "category": "Marketing",
+    "createdBy": "Mark Wilson"
+  },
+  {
+    "title": "Data Science with R",
+    "description": "Analyze data using R, build statistical models, and visualize results.",
+    "image": "https://example.com/images/data-science-r.jpg",
+    "price": 179.00,
+    "duration": 50,
+    "category": "Data Science",
+    "createdBy": "Emily Chen"
+  },
+  {
+    "title": "UX/UI Design Principles",
+    "description": "Master the basics of user experience and interface design.",
+    "image": "https://example.com/images/ux-ui.jpg",
+    "price": 129.00,
+    "duration": 40,
+    "category": "Design",
+    "createdBy": "Liam Jones"
+  }
+]
